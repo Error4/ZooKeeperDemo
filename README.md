@@ -1,2 +1,2 @@
 # ZooKeeperDemo
-Zookeeper联系demo
+Zookeeper练习demo
